@@ -20,4 +20,7 @@
 7. Commit all changes using git commit 
   $ git commit -m "commit message"
 
-8. 
+8. Add remote url using git remote add commmand
+  $ git remote add origin url
+
+9. git push -u origin master 

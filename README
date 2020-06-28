@@ -1,0 +1,23 @@
+# Create local repo & push it to github
+
+1. Create repo using mkdir
+   $ mkdir gitdemo
+
+2. Add folders & files 
+
+3. Initialise it as git repository using git init command
+   $ git init . or git init $PATH
+
+4. Check status of all untracked files using git status command
+   $ git status -s
+
+5. Add all changes to git using git add command
+   $ git add -A   # to add all untracked files
+
+6. To add only indivisual file  use git add & file name
+  $ git add file_name
+
+7. Commit all changes using git commit 
+  $ git commit -m "commit message"
+
+8. 
